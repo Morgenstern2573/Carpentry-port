@@ -1,0 +1,59 @@
+body {
+  font-family: "Commissioner", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+}
+
+h1,
+h2,
+h3,
+button {
+  line-height: 1;
+}
+
+.billboard {
+  height: 600px;
+  background-image: url("../assets/billboard-pic1.jpg");
+  background-size: cover;
+  background-position: top center;
+}
+
+/*
+carousel css   
+.carousel img {
+  width: 100%;
+  z-index: 1;
+  transition: opacity 1s linear;
+}
+
+.carousel__Left-Control {
+  left: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 10;
+}
+
+.carousel__Right-Control {
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 10;
+}
+
+.carousel__Left-Control,
+.carousel__Right-Control {
+}
+
+.carousel__Left-Button,
+.carousel__Right-Button {
+  padding: 10%;
+}
+
+.carousel__Button__Icon {
+  width: 2rem;
+  height: 2rem;
+}
+
+.img_hidden {
+  opacity: 0;
+  height: 0;
+} */

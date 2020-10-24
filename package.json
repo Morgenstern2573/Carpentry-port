@@ -1,0 +1,19 @@
+{
+  "name": "carpenter-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o build/css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "live-server": "^1.2.1",
+    "postcss": "^8.1.2",
+    "postcss-cli": "^8.1.0",
+    "tailwindcss": "^1.9.5"
+  }
+}
